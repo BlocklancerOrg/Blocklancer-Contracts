@@ -2,6 +2,7 @@
 
 # Blocklancer - Smart Contracts
 [blocklancer.net](http://blocklancer.net)
+
 Blocklancer is a so called Distributed Autonomous Job Market (DAJ) on the Ethereum platform, our vision of a completely self-regulatory platform for finding jobs and getting projects done. It will change the way freelancing works, both for customers and freelancers, and it will lift the reliability of freelancing to new heights.
   
 # Abstract
