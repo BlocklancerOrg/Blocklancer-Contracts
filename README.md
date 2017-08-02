@@ -5,7 +5,7 @@
 Blocklancer is a so called Distributed Autonomous Job Market (DAJ) on the Ethereum platform, our vision of a completely self-regulatory platform for finding jobs and getting projects done. It will change the way freelancing works, both for customers and freelancers, and it will lift the reliability of freelancing to new heights.
   
 # Abstract
-The contract in this repository are meant to be a proof-of-concept. It demonstrates the feasibility of the whole Blocklancer platform. It already solves many issues involved in the freelancing process, including but not limited to: 
+The contracts in this repository are meant to be a proof-of-concept. It demonstrates the feasibility of the whole Blocklancer platform. It already solves many issues involved in the freelancing process, including but not limited to: 
 
   - refusals of paying the agreed-on amount of money for a project,
   - unfair decisions
