@@ -1,4 +1,4 @@
-![alt text](http://i.imgur.com/5jgMxke.png "Lancer Token")
+![alt text](https://i.imgur.com/purXzD3.png "Lancer Token")
 
 # Blocklancer - Smart Contracts
 [blocklancer.net](http://blocklancer.net)
