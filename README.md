@@ -42,5 +42,6 @@ The script outputs:
 - the price of the bids
 - etc.
 
-
+# Live Platform
+The far improved and simplified/updated platform can be found on [https://blocklancer.net/](https://blocklancer.net/).
 
